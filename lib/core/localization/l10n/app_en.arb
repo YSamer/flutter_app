@@ -1,0 +1,18 @@
+{
+  "app_name": "Flutter App",
+  "location": "Location",  
+  "location_access": "Location Access",
+  "location_dcs": "Please allow access to the site to select your Location to define your address",
+  "ok": "Ok",
+  "cancel": "Cancel",
+  "search": "Search",
+  "validation": "Please enter a valid value",
+  "invalidPhone": "Invalid phone number. It should be between 8 and 14 digits.",
+  "invalidEmail": "Invalid email address. Please enter a valid email.",
+  "invalidPassword": "Invalid password. It should be longer than 8 characters.",
+  "invalidName": "Invalid name. It should be longer than one character.",
+  "please_select_image": "Please select an image",
+  "camera": "Camera",
+  "photo_gallery": "Photo Gallery"
+
+}
